@@ -14,7 +14,7 @@
 <img src="http://g.recordit.co/0DaJApDyYb.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Was having a issue similar to this which I thought was going to take me ages to figure out by rewatching the video but luckily found help here: http://discussions.codepath.com/courses/ios_university/questions/too-small-grid-size
 
 # Flix
 
